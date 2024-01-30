@@ -6,7 +6,7 @@
 #include <unistd.h>
 
 char* MY_IP = "127.0.0.1";
-int MY_PORT = 12345;
+int MY_PORT = 12000;
 
 int main() {
     // Create a UDP socket
